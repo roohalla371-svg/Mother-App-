@@ -1,0 +1,5 @@
+GitHub write-access test
+
+Created successfully through the ChatGPT GitHub connector on 2026-11-23.
+Target branch: Hio
+Purpose: verify file-creation permission. This is a harmless test file.
